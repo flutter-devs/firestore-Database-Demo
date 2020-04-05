@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "698741514365",
+    "firebase_url": "https://firestoredatabase-a7067.firebaseio.com",
+    "project_id": "firestoredatabase-a7067",
+    "storage_bucket": "firestoredatabase-a7067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698741514365:android:982bab5f538741c2fa1114",
+        "android_client_info": {
+          "package_name": "com.aeologic.firestoredatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698741514365-k72kfkdc6a54f84kaahg1j8p5jcnbllg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aeologic.firestoredatabase",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "698741514365-te4r8j4592glg32o3qjv8pru84iqpndt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASFGnnzFX3If2lq0-mvD_bXxmWJ5R6fxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698741514365-te4r8j4592glg32o3qjv8pru84iqpndt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
